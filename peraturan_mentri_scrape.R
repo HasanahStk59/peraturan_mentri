@@ -35,6 +35,6 @@ atlas <- mongo(
 )
 
 new <- data.frame(Dilihat = dilihat, Nomor_Peraturan = judul, Konten = isi, Status = status)
-atlas_conn$insert(new)
+atlas$insert(new)
 
-rm(atlas_conn)
+rm(atlas)
