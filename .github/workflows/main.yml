@@ -1,4 +1,4 @@
-name: scrape_hashtag
+name: scrape_perment
 
 on:
   schedule:
