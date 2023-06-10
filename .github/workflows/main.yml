@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     
 jobs:
-  hashtag-scrape:
+  scrape_perment:
     runs-on: macOS-latest
     env:
       ATLAS_URL: ${{ secrets.ATLAS_URL }}
