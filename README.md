@@ -1,9 +1,6 @@
 # **Peraturan_mentri Scraping**
 Tgs_Resp_MDS
 
-
-[![Perment](https://github.com/HasanahStk59/peraturan_mentri/assets/111562191/ecba1c3d-73a1-473f-a1e9-ced0707711e6.png)]
-
 <p align="center" width="100%">
     <img width="70%" src="https://github.com/HasanahStk59/peraturan_mentri/assets/111562191/ecba1c3d-73a1-473f-a1e9-ced0707711e6".png>
 </p>
