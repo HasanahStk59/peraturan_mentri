@@ -1,9 +1,9 @@
 # **Peraturan_mentri Scraping**
 Tgs_Resp_MDS
 
-<img width="741" alt="x" src="https://github.com/HasanahStk59/peraturan_mentri/assets/111562191/c4a3bdf4-1c91-4d73-b1fb-030222c4ff31">
+<img width="350" alt="Perment" src="https://github.com/HasanahStk59/peraturan_mentri/assets/111562191/ecba1c3d-73a1-473f-a1e9-ced0707711e6">
 
-[![2023-05-02 (5)](https://github.com/HasanahStk59/peraturan_mentri/assets/111562191/c4a3bdf4-1c91-4d73-b1fb-030222c4ff31.png)]
+[![Perment](https://github.com/HasanahStk59/peraturan_mentri/assets/111562191/ecba1c3d-73a1-473f-a1e9-ced0707711e6.png)]
 
 <p align="center" width="100%">
     <img width="70%" src="https://kaydee.net/blog/wp-content/uploads/2022/07/what-is-a-hashtag-camel-case-1024x504.png">
