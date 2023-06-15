@@ -1,4 +1,4 @@
-# **Peraturan_mentri Scraping**
+# **Peraturan Menteri Scraping**
 Tgs_Resp_MDS
 
 <p align="center" width="100%">
