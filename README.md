@@ -32,7 +32,7 @@ Berikut contoh dokumen pada Mongo DB :
 
 ## :computer: **Visualisasi**
 
-Berikut link visualisasi dari data yang telah di scraping : https://rpubs.com/hasstk_59/permen
+Berikut link visualisasi dari data yang telah di scraping : https://rpubs.com/hasstk_59/1054678
 
 ## :walking: **Pengembang**
 **Siti Hasanah (G1501221014)**
